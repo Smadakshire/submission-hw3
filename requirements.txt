@@ -1,0 +1,9 @@
+matplotlib==3.3.4
+nltk==3.6.1
+pandas==1.2.4
+scipy==1.6.2
+sentence_transformers==2.1.0
+spacy==3.2.0
+streamlit==1.1.0
+torch==1.10.0
+tqdm==4.59.0
